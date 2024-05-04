@@ -8,4 +8,4 @@
 
 🎨 **Passion:** Bringing websites to life through animation and interactivity.
 
-📫 **Connect:** Let's chat about code, creativity, or culinary adventures! Reach out to me on [LinkedIn](https://www.linkedin.com/in/pedini-jayashree/) 🌟
+📫 **Connect:** Let's chat about code, and connect on [LinkedIn](https://www.linkedin.com/in/pedini-jayashree/) 🌟
