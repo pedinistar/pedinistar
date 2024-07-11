@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Developer from India.</h3>
 
 
-![Colorful Pixel Art Youtube Gaming Intro Video](https://github.com/pedinistar/pedinistar/assets/134771316/e966a94a-3acd-4882-9ba9-2cf27ce88d05)
+<img src="https://github.com/pedinistar/pedinistar/assets/134771316/e966a94a-3acd-4882-9ba9-2cf27ce88d05">
 
 
 
