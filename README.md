@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/pedinistar/pedinistar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedinistar/blob/output/github-contribution-grid-snake.svg)
 
 👩‍💻 **Pedini Jayashree**
   
