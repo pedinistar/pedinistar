@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="pedinistar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedinistar" alt="pedinistar" /></a> </p>
+👩‍💻 **Pedini Jayashree**
+  
+👋 Hey there! I'm Pedini Jayashree, a passionate developer exploring and learning about Python and web animation.
 
-- 🌱 I’m currently learning: **Python**
+🔍 **Currently Exploring:** Python, Web Animation(GSAP)
 
-- 💬 Ask me about: **Python**
+🌱 **Skills:** Python 🐍 | HTML | CSS | JavaScript
 
-- ⚡ **reading is my escape📚🖊️**
+📫 **Connect:** Let's chat about code, and connect on [LinkedIn](https://www.linkedin.com/in/pedini-jayashree/) 🌟
 
 
 <h3 align="left">Connect with me:</h3>
