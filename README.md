@@ -1,6 +1,10 @@
 <h1 align="center">Namaste 🙏, I'm Pedini Jayashree</h1>
 <h3 align="center">A passionate Python Developer from India.</h3>
 
+
+https://github.com/pedinistar/pedinistar/assets/134771316/1b0fe82b-e42e-4c12-afac-8eb6b5994044
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="pedinistar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedinistar" alt="pedinistar" /></a> </p>
