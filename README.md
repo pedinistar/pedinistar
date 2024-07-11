@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedini Jayashree</h1>
+<h1 align="center">Namaste 🙏, I'm Pedini Jayashree</h1>
 <h3 align="center">A passionate Python Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="pedinistar" /> </p>
@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/pedinijayashree" target="blank"><img src="https://img.shields.io/twitter/follow/pedinijayashree?logo=twitter&style=for-the-badge" alt="pedinijayashree" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
-- 📄 Know about my experiences [----](----)
-
-- ⚡ Fun fact **reading is my escape📚🖊️**
+- ⚡ **reading is my escape📚🖊️**
 
 
 <h3 align="left">Connect with me:</h3>
