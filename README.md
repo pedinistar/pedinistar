@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Python Developer from India.</h3>
 
 
-https://github.com/pedinistar/pedinistar/assets/134771316/1b0fe82b-e42e-4c12-afac-8eb6b5994044
+![Colorful Pixel Art Youtube Gaming Intro Video](https://github.com/pedinistar/pedinistar/assets/134771316/e966a94a-3acd-4882-9ba9-2cf27ce88d05)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="pedinistar" /> </p>
