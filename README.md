@@ -2,15 +2,10 @@
 <h3 align="center">A passionate Python Developer from India.</h3>
 
 
-<img src="https://github.com/pedinistar/pedinistar/assets/134771316/e966a94a-3acd-4882-9ba9-2cf27ce88d05">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="pedinistar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedinistar" alt="pedinistar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pedinijayashree" target="blank"><img src="https://img.shields.io/twitter/follow/pedinijayashree?logo=twitter&style=for-the-badge" alt="pedinijayashree" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedinistar" alt="pedinistar" /></a> </p>
 
 - 🌱 I’m currently learning: **Python**
 
