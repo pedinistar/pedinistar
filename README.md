@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #4A90E2;">𝓝𝓪𝓶𝓪𝓼𝓽𝓮 🙏, 𝓘'𝓶 𝓟𝓮𝓭𝓲𝓷𝓲 𝓙𝓪𝔂𝓪𝓼𝓱𝓻𝓮𝓮</h1>
-<h3 align="center" style="font-family: 'Comic Sans MS', cursive; color: #7B68EE;">A passionate Python Developer from India</h3>
+<h1 align="center" style="color: #4A90E2;">𝙽𝚊𝚖𝚊𝚜𝚝𝚎 🙏, 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
+<h3 align="center" style="color: #7B68EE;">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h3>
 
 <p align="center">
   <img src="Resource/Github_Intro.gif" alt="Intro GIF">
