@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #4A90E2;">初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
-<h3 align="center" style="color: #7B68EE;">𝙰 𝙿𝚊𝚜𝚜𝚒𝑜𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚝𝚎𝚛🐾</h3>
+<h1>初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
+<h3>𝙰 𝙿𝚊𝚜𝚜𝚒𝑜𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚝𝚎𝚛🐾</h3>
 
 <p align="center">
   <img src="Resource/Github_Intro.gif" alt="Intro GIF">
