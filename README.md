@@ -2,7 +2,7 @@
   <img src="Resource/Github_Intro.gif" alt="Intro GIF">
 </p>
 
-<img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/><h1>初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
+<h1>初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
 <h3>𝙰 𝙿𝚊𝚜𝚜𝚒𝑜𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛🐾</h3>
 
 
@@ -12,7 +12,7 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 <p>
-  Hey there! I'm Pedini Jayashree, a passionate developer exploring and learning about Python and web animation.
+  <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>Hey there! I'm Pedini Jayashree, a passionate developer exploring and learning about Python and web animation.
 </p>
 
 <h2 align="left">🔍 Currently Exploring</h2>
