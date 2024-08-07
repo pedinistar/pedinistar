@@ -1,6 +1,5 @@
-<p align="center">
-  <img src='https://capsule-render.vercel.app/api?type=soft&height=300&color=3D0000&text=初めまして!🎐 &section=header&reversal=true&descAlign=52&animation=blink&fontColor=FF0000'/>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=3D0000&text=%E5%88%9D%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6!%F0%9F%8E%90&section=header&reversal=true&descAlign=52&animation=blink&fontColor=FF0000)
+
 
 <h1 align="center">𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
 <!--<h3 align="center">𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛🐾</h3>-->
