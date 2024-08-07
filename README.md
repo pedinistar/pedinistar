@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://tenor.com/view/god-forgive-me-sins-sinner-forgive-me-gif-23536396" alt="Intro GIF">
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=3D0000&text=初めまして!🎐 &section=header&reversal=true&descAlign=52&animation=blink&fontColor=FF0000">
 
 <h1 align="center">𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
@@ -55,3 +50,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=78&color=950101&section=footer"/>
 </p>
+
+
