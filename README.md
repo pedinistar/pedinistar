@@ -1,9 +1,10 @@
-<h1>初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
-<h3>𝙰 𝙿𝚊𝚜𝚜𝚒𝑜𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛🐾</h3>
-
 <p align="center">
   <img src="Resource/Github_Intro.gif" alt="Intro GIF">
 </p>
+
+<img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/><h1>初めまして! 🎐 𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
+<h3>𝙰 𝙿𝚊𝚜𝚜𝚒𝑜𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛🐾</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
