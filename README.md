@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=3D0000&text=初めまして!🎐 &section=header&reversal=true&descAlign=52&animation=blink&fontColor=FF0000">
+<p align="center">
+  <img src='https://capsule-render.vercel.app/api?type=soft&height=300&color=3D0000&text=初めまして!🎐 &section=header&reversal=true&descAlign=52&animation=blink&fontColor=FF0000'/>
+</p>
 
 <h1 align="center">𝙸'𝚖 𝙿𝚎𝚍𝚒𝚗𝚒 𝙹𝚊𝚢𝚊𝚜𝚑𝚛𝚎𝚎</h1>
 <!--<h3 align="center">𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛🐾</h3>-->
