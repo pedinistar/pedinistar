@@ -5,6 +5,8 @@
   <img src="Resource/Github_Intro.gif" alt="Intro GIF">
 </p>
 
+<script src="https://gist.github.com/pedinistar/679151ffd971bf81e17e4a0500455ca2.js"></script>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pedinistar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
