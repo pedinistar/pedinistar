@@ -12,4 +12,4 @@ I'm a **Front-End Developer** with a passion for crafting sleek, modern, and min
 
 Thank you for visiting my GitHub! 🌼  
 
-![Vintage Vibes](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RuN2hzZzQ4OGVjMWZwNXA5c2FxOTl4dXgxY3htN3B3azJib2c2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W62Cg8rUyhRwk/giphy.gif)
+![Vintage Vibes](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFhcTZqZzk2bXM2bXJhMXRzaWgxOWRnam95N3JjYWlrYW1xOWNrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBNSYO5DVd0XK/giphy.gif)
