@@ -7,8 +7,8 @@ I'm a **Front-End Developer** with a passion for crafting sleek, modern, and min
 - 📜 When I'm not coding, you'll find me lost in poetry or exploring vintage treasures.  
 
 ### Let's Connect!  
-- [**LinkedIn**](https://linkedin.com/in/your-linkedin-profile)  
-- [**Portfolio Website**](https://your-portfolio-link.com)  
+- [**LinkedIn**](https://www.linkedin.com/in/pedini-jayashree/)  
+- [**Portfolio Website**](https://jayashreepedini.vercel.app/)  
 
 Thank you for visiting my GitHub! 🌼  
 
