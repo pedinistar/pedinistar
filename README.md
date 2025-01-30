@@ -9,7 +9,7 @@ I'm a **Front-End Developer** with a passion for crafting sleek, modern, and min
 
 ### Let's Connect!  
 - [**LinkedIn**](https://www.linkedin.com/in/pedini-jayashree/)  
-- [**Portfolio Website**](https://jayashreepedini.vercel.app/)  
+- [**Portfolio Website**](https://jayashreep.vercel.app/)  
 
 ---
 
