@@ -1,4 +1,5 @@
-# Hi, I'm Jayashree! 🌸✨  
+# Hi, I'm Jayashree! 🔮
+ 
 <!--
 I'm a **Front-End Developer** with a passion for crafting sleek, modern, and minimal web interfaces. An old soul at heart, I love vintage aesthetics and poetry, blending creativity with functionality in my work.  
 
