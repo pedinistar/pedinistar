@@ -1,10 +1,10 @@
 # Hi, I'm Jayashree! 
 
-**SDET | Test Automation Engineer**
+**QA Automation Engineer | Test Automation Engineer**
 
 - Currently working on: API & UI Test Automation
 - Learning: Advanced Playwright, TypeScript
-- Open to: SDET/QA Automation roles
+- Open to: QA Automation roles
 
 ## 🛠️ Tech Stack
 Playwright • TypeScript • JavaScript • CI/CD • REST APIs
