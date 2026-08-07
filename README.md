@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Frontend+Developer+%F0%9F%92%BB;Building+with+React+%26+TypeScript+%E2%9C%A8" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=440&height=44&lines=Frontend+Developer+%F0%9F%92%BB;React.js+%26+TypeScript+%E2%9C%A8" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Frontend developer who loves turning ideas into clean, responsive interfaces. I enjoy working across the JavaScript ecosystem, from building UI components to polishing the small details that make an app feel great to use.
+Frontend developer specializing in **React.js**, focused on building clean, responsive, and performant user interfaces. I enjoy turning designs into real, working UIs and I'm sharpening my problem-solving with DSA in JavaScript.
 
-🌱 &nbsp;I'm currently learning **JavaScript, React & TypeScript**
+🌱 &nbsp;I'm currently learning **React.js, TypeScript & DSA**
 
 ### 🛠️ Tech Stack
 
