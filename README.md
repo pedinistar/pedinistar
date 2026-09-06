@@ -12,7 +12,7 @@
 
 Frontend developer specializing in **React.js**, focused on building clean, responsive, and performant user interfaces. I enjoy turning designs into real, working UIs and I'm sharpening my problem-solving with DSA in JavaScript.
 
-🌱 &nbsp;I'm currently learning **React.js, TypeScript & DSA**
+🌱 &nbsp;Frontend Developer building performant web applications with React, TypeScript & Tailwind CSS.**
 
 ### 🛠️ Tech Stack
 
